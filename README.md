@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Aelorix
-- 👀 I’m interested in ...vr
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...discord Aelorix or Itsaelorix@gmail.com
-- 😄 Pronouns: ...any
-- ⚡ Fun fact: ...
+- 👀 I’m interested in VR
+- 🌱 I’m currently learning java script
+- 📫 How to reach me my discord is Aelorix or Itsaelorix@gmail.com
+- 😄 Pronouns: any
 
 <!---
 Aelorix/Aelorix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
