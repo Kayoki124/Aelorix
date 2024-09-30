@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aelorix
 - 👀 I’m interested in VR
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning java script, c#, and python
 - 📫 How to reach me my discord is Aelorix or Itsaelorix@gmail.com
 - 😄 Pronouns: any
 
